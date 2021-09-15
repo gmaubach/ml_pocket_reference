@@ -1,3 +1,5 @@
+**Harrison, Matt: Machine Learning - Die Referenz, Mit strukturierten Daten in Python arbeiten, 1. Aufl., Heidelberg: dpunkt, 2021**
+
 # Welcome
 
 Here you will find the source code for the book [*Machine Learning Pocket Reference*]( https://learning.oreilly.com/library/view/machine-learning-pocket/9781492047537/)
